@@ -1,11 +1,23 @@
+<!-- 
+  GitHub Profile README for Salman Ali 
+  Professional • Eye-catching • Advanced Design
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=header&text=Hi%20I'm%20Salman%20Ali!&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Cloud%20Architect%20|%20Tech%20Enthusiast&descSize=20&descAlignY=60" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=salmanali565&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Architect+%7C+DevOps+Engineer;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
+</div>
+
 <!--
   ULTRA-PREMIUM GitHub Profile README for salmanali565
   Next-Gen • Executive-Level • Fortune 500 Grade • AI-Enhanced Design
 -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=400&section=header&text=SALMAN%20ALI&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CHIEF%20TECHNOLOGY%20OFFICER%20%7C%20ENTERPRISE%20ARCHITECT%20%7C%20AI%20VISIONARY&descAlignY=55&descSize=28&stroke=ffffff&strokeWidth=3&rotate=2"/>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="5">
